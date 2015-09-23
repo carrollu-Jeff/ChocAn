@@ -8,5 +8,6 @@ namespace ChocAn.Business
 {
     public class Class1
     {
+        //
     }
 }
